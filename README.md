@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hello! </h1>
+<h1 data-importer="text" align="left">Hello World, I'm Urooj Syeda! </h1>
 
 ###
 
-<p data-importer="text" align="left">My name is Urooj Syeda, I have a Bachelors Degree in Business Analytics from GMU, and I'm passionate about Data Analytics</p>
+<p data-importer="text" align="left">My name is Urooj Syeda, I have a Bachelors Degree in Business Analytics from GMU, and I'm passionate about Data Analytics. I'm currently trying to expand my professional coding experience by working on personal projects and applying to jobs after college that relate to data analysis.</p>
 
 ###
 
