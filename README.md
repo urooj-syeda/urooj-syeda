@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left"> I'm currently learning how to code on Python <br>🎯 Goals: Break into the Data Analytics workspace, Create interesting projects <br>🎲 Fun fact: I do art and graphic design on the side and have almost 20k instagram followers!</p>
+<p data-importer="text" align="left"> I'm currently learning how to code in Python <br>🎯 Goals: Break into the Data Analytics workspace, Create interesting projects <br>🎲 Fun fact: I do art and graphic design on the side and have almost 20k instagram followers!</p>
 
 ###
 
